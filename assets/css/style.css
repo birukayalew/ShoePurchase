@@ -1,0 +1,54 @@
+
+.row .card {
+    float: left;
+    margin: 1.66%;
+}
+.list-unstyled li a:link,.footer-copyright p a:link{
+    text-decoration: none;
+}
+.list-unstyled li a:hover,.footer-copyright p a:hover{
+    text-decoration: underline;
+    text-shadow: darkgreen;
+    box-shadow: rgba(0,0,0,0.5);
+}
+.list-unstyled li a{
+    cursor: pointer;
+}
+.list-unstyled li a,.footer-copyright p a{
+    color: green;
+}
+.page-footer{
+    margin-top: 4rem;
+}
+.container-fluid{
+    margin-top: 2rem;
+}
+.jumbotron{
+    margin-bottom: 2rem;
+}
+.forms{
+    margin: 10% 25% 10% 25%;
+    
+}
+.formss{
+
+}
+img{
+    height: 200px;width: 200px;
+}
+#images img{
+    border-radius: 50%;
+}
+.carousel-inner img{
+    height: 500px;
+}
+  .badge{
+    height: 60px;
+    width: 60px;
+    
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%; /* may require vendor prefixes */
+    background: black;
+  }
+  
